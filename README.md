@@ -11,7 +11,6 @@ This repository contains my modifications, environment setup scripts, and docume
 **License**: MIT  
 **Original Repo**: https://github.com/lemingshen/GPIoT   
 **Paper**: https://lemingshen.github.io/assets/publication/conference/GPIoT/paper.pdf 
-
 **Project**: [GPIoT: Tailoring Small Language Models for IoT Program Synthesis and   Development](https://lemingshen.github.io/projects/gpiot/)  
 
 > ⚠️ This is NOT the official repository. I do not distribute the original model weights or datasets. Please download them from the authors' provided links.
