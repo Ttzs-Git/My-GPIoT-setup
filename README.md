@@ -1,7 +1,7 @@
 # My-GPIoT-setup
 ## GPIoT Modified Setup for Local Reproduction & Enhancement
 
-This repository contains my modifications, environment setup scripts, and documentation for reproducing and extending the **GPIoT** project.
+This repository contains my modifications, and documentation for reproducing and extending the **GPIoT** project.
 
 ## 📌 Original Project
 
